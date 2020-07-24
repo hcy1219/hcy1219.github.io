@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Motorized_Robot_Car</title>
+      <title>Motorized Robot Car</title>
       <link>https://hcy1219.github.io/project/motorized_robot_car/</link>
       <pubDate>Tue, 03 Mar 2020 18:13:26 +0800</pubDate>
       
@@ -20,7 +20,17 @@
       <description>This is a project I finished in 2018.
 It is a motorized robot car that can move from one point, detect, pick up an object and bring it to another point.
 It is built with Utilized Arduino, Solid Works, basic mechanical design and electronics principles.
-And here&amp;rsquo;s some picture&amp;rsquo;s of the car:</description>
+/
+這算是我們學校的課程慣例，要從頭學起完成一台機器車，每年都可以看到大一新生捧著一台車在學校走來走去還蠻有趣的。
+課程的目標是要完成這輛車子，並且設計它的爪子，最終要能沿著地圖走（利用紅外線感應黑線的原理），抓起杯子並放回，抓越多個杯子分數越高。
+一開始會利用Solidworks畫出爪子設計圖，再來自行焊接電路板，組裝好車子後用Arduino撰寫運作的程式，最後就是不停的測試再測試。
+其實整堂課是頗好玩的，但在期末要做最後發表前兩天，在測試車子的時候，由於測試教室的地圖是架在桌子上的，整台車直接爆衝掉到地上摔成兩半QQ
+幸好那堂課的教授人超好，趕緊跟他領了零件之後徹夜不休的組裝和測試，也是我第一次體驗到一整個晚上都窩在實驗室，抱著咖啡熬夜修改程式的感覺。但其實雖然辛苦但很有趣，也認識幾個受困在實驗室的同學，大家有難同當也會互相幫忙檢查及測試。
+總之這堂課讓我學到很多東西，也讓我對整個工程概念有初步的了解。
+（現在如果面試官問我遇到最大的挫折是什麼，我都會講這個故事給他聽，因為車子在我眼前摔成兩半的那個震驚感太深刻了XDD)
+（順帶一提那個地圖根本就不應該架在桌子上，我摔完車子之後親眼見證到另一組也把車子摔爛。在我們之後聽說還有兩組也摔車&amp;hellip;)
+/
+And here&amp;rsquo;s some pictures of the car:</description>
     </item>
     
     <item>
@@ -32,8 +42,22 @@ And here&amp;rsquo;s some picture&amp;rsquo;s of the car:</description>
       <description>About the project This is a project I finished in 2019.
 It is a memory game designed and implemented various data structure using C.
 https://github.com/hcy1219/C_Project_Concentration_cardgame
+這也是經過一個學期的課程後完成的Project，主要就是在練習C語言，製作一個記憶翻牌遊戲。
+在這個學期之後又上了一個學期的Data Stucture，所以對我來說C語言應該是目前最熟練的語言了吧。
 Images of the game This is the menu of the game. You can pick the mode you want. Human vs. Computer mode:
 or Computer vs. Computer mode:</description>
+    </item>
+    
+    <item>
+      <title>To Do List</title>
+      <link>https://hcy1219.github.io/project/todo_list/</link>
+      <pubDate>Tue, 03 Mar 2020 16:58:31 +0800</pubDate>
+      
+      <guid>https://hcy1219.github.io/project/todo_list/</guid>
+      <description>About the project 之前因為要面試某個實習職缺趁機做的一個小小練習，也是我第一次接觸到ReactJS。
+實際操作後感覺不難，可惜當時時間不足所以做得很簡陋。 練習完之後覺得相當有趣，日後應該會找時間再來進化這個頁面。
+來看看吧！
+https://hcy1219.github.io/my-app</description>
     </item>
     
   </channel>
